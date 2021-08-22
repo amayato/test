@@ -1,1 +1,2 @@
 fruits = ['banana', 'lime', 'apple']
+fruits = set(fruits)
